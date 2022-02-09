@@ -103,7 +103,7 @@ p {
     max-width: 150px;
 }
 
-.content-images{
+.content-class{
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -112,21 +112,11 @@ p {
     color: #ffffff;
 }
 
-.content-images img {
+.content-class img {
     max-height: 200px;
 }
 
-.content-images h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.content-images h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
+.content-class h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
